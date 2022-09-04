@@ -1,6 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/2df202d0024d7a5eef950e331d19903ec09d8a64166674fb9edecce20401fe43/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d687432734d624b5755464d2f57445a777945706a4e57492f41414141414141454c57732f3771444e65334259725173564e54414f496a4f47585462755754657a6b6a414441434c63422f73313630302f41533030303632305f31312e676966))](https://surajdas.blogwaping.com)
 <h1 align="center">Hi 👋, I'm Suraj Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesurajdas&label=Profile%20views&color=0e75b6&style=flat" alt="thesurajdas" /> </p>
 
 
